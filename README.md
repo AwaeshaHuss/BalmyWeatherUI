@@ -1,16 +1,14 @@
-# balmy_weather_ui
+# BalmyWeatherUI
+###BalmyWeatherUI is an awesome looking UI built using flutter widgets
 
-A new Flutter project.
+![simulator_screenshot_6711EBAF-57FF-41D0-B86A-F3EC75BC1959](https://user-images.githubusercontent.com/90145169/179316943-921d16a3-fac6-4c60-b38e-4daaac981e5f.png)
 
-## Getting Started
+![simulator_screenshot_824DAC9A-C2F4-4535-9D88-55D9F25560FD](https://user-images.githubusercontent.com/90145169/179316962-a5e4a8f0-a670-48ac-b710-65d5da9a9e9d.png)
 
-This project is a starting point for a Flutter application.
+![simulator_screenshot_7D83FC3F-425B-423D-BF72-A27BE7D62F66](https://user-images.githubusercontent.com/90145169/179316987-cf596d6e-90f9-4020-a9bd-8702c4eee027.png)
 
-A few resources to get you started if this is your first Flutter project:
+![simulator_screenshot_F00771E9-2D24-4450-90D8-983254BF3F0A](https://user-images.githubusercontent.com/90145169/179317258-98a49bd3-55a0-45fe-859d-e493267e7a98.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
